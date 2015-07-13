@@ -1,4 +1,4 @@
-# mesos-playground
+# Mesos Playground
 
 This project demonstrates how to develop Mesos frameworks in Scala.
 
